@@ -1,0 +1,1667 @@
+PMID- 39473305
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250225
+LR  - 20250523
+IS  - 1879-0844 (Electronic)
+IS  - 1388-9842 (Print)
+IS  - 1388-9842 (Linking)
+VI  - 27
+IP  - 2
+DP  - 2025 Feb
+TI  - Vericiguat Global Study in Participants with Chronic Heart Failure: Design of the 
+      VICTOR trial.
+PG  - 209-218
+LID - 10.1002/ejhf.3501 [doi]
+AB  - AIMS: In the VICTORIA (Vericiguat Global Study in Subjects with Heart Failure 
+      with Reduced Ejection Fraction) trial, the soluble guanylate cyclase stimulator 
+      vericiguat reduced the risk of hospitalization for heart failure (HHF) or 
+      cardiovascular death in patients with heart failure (HF) and reduced ejection 
+      fraction (HFrEF) with recent worsening HF. The effect of vericiguat in patients 
+      with HFrEF without recent worsening HF remains unknown. The VICTOR (Vericiguat 
+      Global Study in Participants with Chronic Heart Failure) trial was designed to 
+      assess the efficacy and safety of vericiguat in patients with ejection fraction 
+      ≤40% without recent worsening HF on a background of current foundational HFrEF 
+      therapy. METHODS: The primary endpoint for VICTOR is time to first event for the 
+      composite of HHF or cardiovascular death. The trial will also assess the effect 
+      of vericiguat on time to cardiovascular death, time to HHF, total HHF, and 
+      all-cause death. As an event-driven trial, at least 1080 primary events are 
+      expected, but follow-up will continue until the targeted number of at least 590 
+      cardiovascular deaths has been reached. Approximately 6000 participants will be 
+      randomized to vericiguat or placebo. CONCLUSION: VICTOR is the first large 
+      event-driven HFrEF trial performed in the contemporary era of quadruple 
+      foundational guideline-directed medical therapy, in a compensated ambulatory HF 
+      population. VICTOR will add important information to the evidence of the effects 
+      of vericiguat across the spectrum of patients with HFrEF.
+CI  - © 2024 Bayer AG, Merck Sharp & Dohme LLC and The Author(s). European Journal of 
+      Heart Failure published by John Wiley & Sons Ltd on behalf of European Society of 
+      Cardiology.
+FAU - Reddy, Yogesh N V
+AU  - Reddy YNV
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, USA.
+FAU - Butler, Javed
+AU  - Butler J
+AD  - Baylor Scott and White Research Institute, Dallas, TX, USA.
+AD  - Department of Medicine, University of Mississippi, Jackson, MS, USA.
+FAU - Anstrom, Kevin J
+AU  - Anstrom KJ
+AD  - University of North Carolina, Chapel Hill, NC, USA.
+FAU - Blaustein, Robert O
+AU  - Blaustein RO
+AD  - Merck & Co., Inc., Rahway, NJ, USA.
+FAU - Bonaca, Marc P
+AU  - Bonaca MP
+AD  - Colorado Prevention Center Clinical Research, Department of Medicine, University 
+      of Colorado, Aurora, CO, USA.
+FAU - Corda, Stefano
+AU  - Corda S
+AD  - Bayer AG, Wuppertal, Germany.
+FAU - Ezekowitz, Justin A
+AU  - Ezekowitz JA
+AD  - Canadian VIGOUR Centre, University of Alberta, Edmonton, AB, Canada.
+FAU - Lam, Carolyn S P
+AU  - Lam CSP
+AD  - National Heart Centre Singapore and Duke-National University, Singapore, 
+      Singapore.
+FAU - Lewis, Eldrin F
+AU  - Lewis EF
+AD  - Stanford University School of Medicine Stanford, Stanford, CA, USA.
+FAU - Lindenfeld, JoAnn
+AU  - Lindenfeld J
+AD  - Vanderbilt University Medical Center, Nashville, TN, USA.
+FAU - McMullan, Ciaran J
+AU  - McMullan CJ
+AD  - Merck & Co., Inc., Rahway, NJ, USA.
+FAU - Mentz, Robert J
+AU  - Mentz RJ
+AD  - Duke Clinical Research Institute, Durham, NC, USA.
+FAU - O'Connor, Christopher
+AU  - O'Connor C
+AD  - Inova Heart and Vascular Institute, Falls Church, VA, USA.
+FAU - Patel, Mahesh
+AU  - Patel M
+AD  - Merck & Co., Inc., Rahway, NJ, USA.
+FAU - Ponikowski, Piotr
+AU  - Ponikowski P
+AD  - Wroclaw Medical University, Wroclaw, Poland.
+FAU - Rosano, Giuseppe M C
+AU  - Rosano GMC
+AD  - St George's Hospital Medical School, London, UK.
+FAU - Saldarriaga, Clara I
+AU  - Saldarriaga CI
+AD  - Cardio VID Clinic, Medellin, Colombia.
+FAU - Senni, Michele
+AU  - Senni M
+AD  - Papa Giovanni XXIII Hospital, Bergamo, Italy.
+FAU - Udelson, James
+AU  - Udelson J
+AD  - Tufts Medical Center, Boston, MA, USA.
+FAU - Voors, Adriaan A
+AU  - Voors AA
+AD  - Groningen Heart Failure Research Institute, Groningen, The Netherlands.
+FAU - Zannad, Faiez
+AU  - Zannad F
+AD  - CVCT and Universite de Lorraine, Nancy, France.
+LA  - eng
+GR  - K23 HL164901/HL/NHLBI NIH HHS/United States
+GR  - Merck Sharp & Dohme LLC., a subsidiary of Merck & Co., Inc., Rahway, NJ, USA/
+GR  - Bayer AG, Wuppertal, Germany/
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20241030
+PL  - England
+TA  - Eur J Heart Fail
+JT  - European journal of heart failure
+JID - 100887595
+RN  - LV66ADM269 (vericiguat)
+RN  - 0 (Pyrimidines)
+RN  - 0 (Heterocyclic Compounds, 2-Ring)
+SB  - IM
+MH  - Humans
+MH  - *Heart Failure/drug therapy/physiopathology/mortality
+MH  - *Stroke Volume/physiology
+MH  - *Pyrimidines/therapeutic use/administration & dosage
+MH  - Chronic Disease
+MH  - Female
+MH  - Male
+MH  - Randomized Controlled Trials as Topic
+MH  - Hospitalization/statistics & numerical data
+MH  - Treatment Outcome
+MH  - *Heterocyclic Compounds, 2-Ring/therapeutic use
+PMC - PMC11860724
+OTO - NOTNLM
+OT  - Heart failure with reduced ejection fraction
+OT  - Vericiguat
+EDAT- 2024/10/30 10:28
+MHDA- 2025/02/26 00:20
+PMCR- 2025/02/26
+CRDT- 2024/10/30 03:43
+PHST- 2024/09/18 00:00 [revised]
+PHST- 2024/07/26 00:00 [received]
+PHST- 2024/10/05 00:00 [accepted]
+PHST- 2025/02/26 00:20 [medline]
+PHST- 2024/10/30 10:28 [pubmed]
+PHST- 2024/10/30 03:43 [entrez]
+PHST- 2025/02/26 00:00 [pmc-release]
+AID - EJHF3501 [pii]
+AID - 10.1002/ejhf.3501 [doi]
+PST - ppublish
+SO  - Eur J Heart Fail. 2025 Feb;27(2):209-218. doi: 10.1002/ejhf.3501. Epub 2024 Oct 
+      30.
+
+PMID- 39709786
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250201
+LR  - 20250529
+IS  - 1873-491X (Electronic)
+IS  - 0020-7489 (Linking)
+VI  - 162
+DP  - 2025 Feb
+TI  - Effectiveness of a nurse practitioner-led collaborative health care model on 
+      self-care, functional status, rehospitalization and medical costs in heart 
+      failure patients: A randomized controlled trial.
+PG  - 104980
+LID - S0020-7489(24)00293-1 [pii]
+LID - 10.1016/j.ijnurstu.2024.104980 [doi]
+AB  - BACKGROUND: Heart failure is a serious and common condition that has garnered 
+      significant attention in the global public health domain. It often results in 
+      impaired function and reduced cardiac function status, leading to difficulties in 
+      self-care and diminished quality of life. To effectively address these complex 
+      challenges, the collaborative health care model has been proposed. This approach 
+      has proven effective in reducing rehospitalization and lowering medical costs. 
+      OBJECTIVE: To evaluate the effects of a nurse practitioner-led collaborative 
+      health care model on the self-care, functional status, rehospitalization and 
+      medical costs of patients with heart failure. DESIGN: A randomized controlled 
+      trial design. SETTING: Cardiology department of a regional teaching hospital in 
+      Southern Taiwan. PARTICIPANTS: 100 patients diagnosed with heart failure. 
+      METHODS: Patients diagnosed with heart failure were recruited through random 
+      allocation and. randomly assigned to two groups. The control group included 50 
+      patients who received routine nursing guidance; the experimental group also 
+      included 50 patients who participated in a 12-week collaborative health care 
+      program. Key outcomes, including self-care, functional status, rehospitalization, 
+      and medical costs, which were evaluated at 12, 16, and 20 weeks post-discharge. 
+      RESULTS: The intervention of the collaborative healthcare program significantly 
+      impacted self-care, functional status, rehospitalization, and medical costs. 
+      Significant improvements in self-care and functional status were observed at 
+      20 weeks (Self-Care: β = 31.52, 95 % CI: 25.96 to 37.07, p < 0.001; Functional 
+      Status: χ(2) = 22.42, p < 0.001). Regarding rehospitalization, the average 
+      rehospitalization duration for the experimental group significantly increased 
+      compared to 1.45 months for the control group, with the experimental group 
+      averaging 3.00 months at the 20-week follow-up. Moreover, the experimental group 
+      also demonstrated a reduction in rehospitalization medical costs, particularly 
+      with significant effects observed in the early stages of intervention 
+      (β = -6147.94, 95 % CI: -10,763.99 to -1531.88, p = 0.009). CONCLUSION: The use 
+      of a nurse practitioner-led collaborative health care model significantly 
+      improved self-care, function status and reduced rehospitalization while 
+      effectively lowering medical costs for patients with heart failure. Through 
+      professional team communication and collaboration, this approach provides more 
+      effective and comprehensive care, enhances patient self-management capabilities, 
+      and improves overall treatment outcomes. These results hold significant 
+      implications for clinical practice and provide empirical support for future heart 
+      failure care programs, warranting their widespread implementation in clinical 
+      settings. REGISTRATION: This study was registered on ClinicalTrials.gov under the 
+      identifier NCT04860596 on April 22, 2021, and participant recruitment was 
+      initiated in April 2023. TWEETABLE ABSTRACT: Effectiveness of a Nurse 
+      Practitioner-Led Collaborative Care Model: Reduces rehospitalization and medical 
+      costs, while improving self-care and functional status in heart failure patients. 
+      A Randomized Controlled Trial. #HeartFailure #HealthCare #SelfCare.
+CI  - Copyright © 2024 Elsevier Ltd. All rights reserved.
+FAU - Chen, Chih-Wen
+AU  - Chen CW
+AD  - Antai Medical Care Corporation Antai Tian-Sheng Memorial Hospital/Department of 
+      Nursing, Taiwan.
+FAU - Wang, Tsae-Jyy
+AU  - Wang TJ
+AD  - School of Nursing, National Taipei University of Nursing and Health Sciences, 
+      Taipei, Taiwan.
+FAU - Liu, Chieh-Yu
+AU  - Liu CY
+AD  - School of Nursing, National Taipei University of Nursing and Health Sciences, 
+      Taipei, Taiwan. Electronic address: chiehyu@ntunhs.edu.tw.
+FAU - Chuang, Yeu-Hui
+AU  - Chuang YH
+AD  - Taipei Medical University, School of Nursing, College of Nursing, Taiwan. 
+      Electronic address: yeuhui@tmu.edu.tw.
+FAU - Su, Ching-Chuan
+AU  - Su CC
+AD  - Antai Medical Care Corporation Antai Tian-Sheng Memorial Hospital, Taiwan. 
+      Electronic address: a085085@mail.tsmh.org.tw.
+FAU - Wu, Shu-Fang Vivienne
+AU  - Wu SV
+AD  - School of Nursing, National Taipei University of Nursing and Health Sciences, 
+      Taipei, Taiwan. Electronic address: president@ntunhs.edu.tw.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT04860596
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20241219
+PL  - England
+TA  - Int J Nurs Stud
+JT  - International journal of nursing studies
+JID - 0400675
+SB  - IM
+MH  - Humans
+MH  - *Heart Failure/nursing/therapy/physiopathology
+MH  - *Nurse Practitioners
+MH  - *Patient Readmission
+MH  - Male
+MH  - Female
+MH  - *Self Care
+MH  - Taiwan
+MH  - Aged
+MH  - Middle Aged
+MH  - *Health Care Costs
+OTO - NOTNLM
+OT  - Heart failure
+OT  - Medical costs
+OT  - Multidisciplinary care teams
+OT  - New York Heart Association functional class
+OT  - Rehospitalization
+OT  - Self-care
+COIS- Declaration of competing interest The authors have no conflicts of interest to 
+      declare concerning the publication of this paper. There are no financial or 
+      personal relationships with any individuals or organizations that could have 
+      inappropriately influenced the results of this research.
+EDAT- 2024/12/23 00:19
+MHDA- 2025/02/02 05:10
+CRDT- 2024/12/22 18:06
+PHST- 2024/07/03 00:00 [received]
+PHST- 2024/12/06 00:00 [revised]
+PHST- 2024/12/09 00:00 [accepted]
+PHST- 2025/02/02 05:10 [medline]
+PHST- 2024/12/23 00:19 [pubmed]
+PHST- 2024/12/22 18:06 [entrez]
+AID - S0020-7489(24)00293-1 [pii]
+AID - 10.1016/j.ijnurstu.2024.104980 [doi]
+PST - ppublish
+SO  - Int J Nurs Stud. 2025 Feb;162:104980. doi: 10.1016/j.ijnurstu.2024.104980. Epub 
+      2024 Dec 19.
+
+PMID- 34461042
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210928
+LR  - 20211108
+IS  - 1474-547X (Electronic)
+IS  - 0140-6736 (Linking)
+VI  - 398
+IP  - 10304
+DP  - 2021 Sep 11
+TI  - Haemodynamic-guided management of heart failure (GUIDE-HF): a randomised 
+      controlled trial.
+PG  - 991-1001
+LID - S0140-6736(21)01754-2 [pii]
+LID - 10.1016/S0140-6736(21)01754-2 [doi]
+AB  - BACKGROUND: Previous studies have suggested that haemodynamic-guided management 
+      using an implantable pulmonary artery pressure monitor reduces heart failure 
+      hospitalisations in patients with moderately symptomatic (New York Heart 
+      Association [NYHA] functional class III) chronic heart failure and a 
+      hospitalisation in the past year, irrespective of ejection fraction. It is 
+      unclear if these benefits extend to patients with mild (NYHA functional class II) 
+      or severe (NYHA functional class IV) symptoms of heart failure or to patients 
+      with elevated natriuretic peptides without a recent heart failure 
+      hospitalisation. This trial was designed to evaluate whether haemodynamic-guided 
+      management using remote pulmonary artery pressure monitoring could reduce heart 
+      failure events and mortality in patients with heart failure across the spectrum 
+      of symptom severity (NYHA funational class II-IV), including those with elevated 
+      natriuretic peptides but without a recent heart failure hospitalisation. METHODS: 
+      The randomised arm of the haemodynamic-GUIDEed management of Heart Failure 
+      (GUIDE-HF) trial was a multicentre, single-blind study at 118 centres in the USA 
+      and Canada. Following successful implantation of a pulmonary artery pressure 
+      monitor, patients with all ejection fractions, NYHA functional class II-IV 
+      chronic heart failure, and either a recent heart failure hospitalisation or 
+      elevated natriuretic peptides (based on a-priori thresholds) were randomly 
+      assigned (1:1) to either haemodynamic-guided heart failure management based on 
+      pulmonary artery pressure or a usual care control group. Patients were masked to 
+      their study group assignment. Investigators were aware of treatment assignment 
+      but did not have access to pulmonary artery pressure data for control patients. 
+      The primary endpoint was a composite of all-cause mortality and total heart 
+      failure events (heart failure hospitalisations and urgent heart failure hospital 
+      visits) at 12 months assessed in all randomly assigned patients. Safety was 
+      assessed in all patients. A pre-COVID-19 impact analysis for the primary and 
+      secondary outcomes was prespecified. This study is registered with 
+      ClinicalTrials.gov, NCT03387813. FINDINGS: Between March 15, 2018, and Dec 20, 
+      2019, 1022 patients were enrolled, with 1000 patients implanted successfully, and 
+      follow-up was completed on Jan 8, 2021. There were 253 primary endpoint events 
+      (0·563 per patient-year) among 497 patients in the haemodynamic-guided management 
+      group (treatment group) and 289 (0·640 per patient-year) in 503 patients in the 
+      control group (hazard ratio [HR] 0·88, 95% CI 0·74-1·05; p=0·16). A prespecified 
+      COVID-19 sensitivity analysis using a time-dependent variable to compare events 
+      before COVID-19 and during the pandemic suggested a treatment interaction 
+      (p(interaction)=0·11) due to a change in the primary endpoint event rate during 
+      the pandemic phase of the trial, warranting a pre-COVID-19 impact analysis. In 
+      the pre-COVID-19 impact analysis, there were 177 primary events (0·553 per 
+      patient-year) in the intervention group and 224 events (0·682 per patient-year) 
+      in the control group (HR 0·81, 95% CI 0·66-1·00; p=0·049). This difference in 
+      primary events almost disappeared during COVID-19, with a 21% decrease in the 
+      control group (0·536 per patient-year) relative to pre-COVID-19, virtually no 
+      change in the treatment group (0·597 per patient-year), and no difference between 
+      groups (HR 1·11, 95% CI 0·80-1·55; p=0·53). The cumulative incidence of heart 
+      failure events was not reduced by haemodynamic-guided management (0·85, 
+      0·70-1·03; p=0·096) in the overall study analysis but was significantly decreased 
+      in the pre-COVID-19 impact analysis (0·76, 0·61-0·95; p=0·014). 1014 (99%) of 
+      1022 patients had freedom from device or system-related complications. 
+      INTERPRETATION: Haemodynamic-guided management of heart failure did not result in 
+      a lower composite endpoint rate of mortality and total heart failure events 
+      compared with the control group in the overall study analysis. However, a 
+      pre-COVID-19 impact analysis indicated a possible benefit of haemodynamic-guided 
+      management on the primary outcome in the pre-COVID-19 period, primarily driven by 
+      a lower heart failure hospitalisation rate compared with the control group. 
+      FUNDING: Abbott.
+CI  - Copyright © 2021 Elsevier Ltd. All rights reserved.
+FAU - Lindenfeld, JoAnn
+AU  - Lindenfeld J
+AD  - Vanderbilt Heart and Vascular Institute, Vanderbilt University Medical Center, 
+      Nashville, TN, USA. Electronic address: joann.lindenfeld@vumc.org.
+FAU - Zile, Michael R
+AU  - Zile MR
+AD  - Medical University of South Carolina, RJH Department of Veterans Affairs Medical 
+      Center, Charleston, SC, USA.
+FAU - Desai, Akshay S
+AU  - Desai AS
+AD  - Cardiovascular Division, Brigham and Women's Hospital and Harvard Medical School, 
+      Boston, MA, USA.
+FAU - Bhatt, Kunjan
+AU  - Bhatt K
+AD  - Austin Heart, Austin, TX, USA.
+FAU - Ducharme, Anique
+AU  - Ducharme A
+AD  - Montreal Heart Institute, Université de Montréal, Montreal, QC, Canada.
+FAU - Horstmanshof, Douglas
+AU  - Horstmanshof D
+AD  - Integris Baptist Medical Center, Oklahoma City, OK, USA.
+FAU - Krim, Selim R
+AU  - Krim SR
+AD  - John Ochsner Heart and Vascular Institute, Ochsner Medical Center, New Orleans, 
+      LA, USA.
+FAU - Maisel, Alan
+AU  - Maisel A
+AD  - University of California San Diego, La Jolla, CA, USA.
+FAU - Mehra, Mandeep R
+AU  - Mehra MR
+AD  - Cardiovascular Division, Brigham and Women's Hospital and Harvard Medical School, 
+      Boston, MA, USA.
+FAU - Paul, Sara
+AU  - Paul S
+AD  - Catawba Valley Health System, Conover, NC, USA.
+FAU - Sears, Samuel F
+AU  - Sears SF
+AD  - East Carolina University, Greenville, NC, USA.
+FAU - Sauer, Andrew J
+AU  - Sauer AJ
+AD  - University of Kansas School of Medicine, Kansas City, KS, USA.
+FAU - Smart, Frank
+AU  - Smart F
+AD  - Louisiana State University School of Medicine, New Orleans, LA, USA.
+FAU - Zughaib, Marcel
+AU  - Zughaib M
+AD  - Providence Hospital, Southfield, MI, USA.
+FAU - Castaneda, Paige
+AU  - Castaneda P
+AD  - Austin Heart, Austin, TX, USA.
+FAU - Kelly, Jean
+AU  - Kelly J
+AD  - Providence Hospital, Southfield, MI, USA.
+FAU - Johnson, Nessa
+AU  - Johnson N
+AD  - Abbott, Abbott Park, IL, USA.
+FAU - Sood, Poornima
+AU  - Sood P
+AD  - Abbott, Abbott Park, IL, USA.
+FAU - Ginn, Greg
+AU  - Ginn G
+AD  - Abbott, Abbott Park, IL, USA.
+FAU - Henderson, John
+AU  - Henderson J
+AD  - Abbott, Abbott Park, IL, USA.
+FAU - Adamson, Philip B
+AU  - Adamson PB
+AD  - Abbott, Abbott Park, IL, USA.
+FAU - Costanzo, Maria Rosa
+AU  - Costanzo MR
+AD  - Advocate Heart Institute, Naperville, IL, USA.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT03387813
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210827
+PL  - England
+TA  - Lancet
+JT  - Lancet (London, England)
+JID - 2985213R
+SB  - IM
+CIN - Lancet. 2021 Sep 11;398(10304):935-936. doi: 10.1016/S0140-6736(21)01914-0. PMID: 
+      34461039
+MH  - Aged
+MH  - COVID-19
+MH  - *Electrodes, Implanted
+MH  - Female
+MH  - *Heart Failure/classification/physiopathology
+MH  - *Hemodynamics/physiology
+MH  - Hospitalization/*statistics & numerical data/trends
+MH  - Humans
+MH  - Male
+MH  - Mortality/trends
+MH  - *Pulmonary Artery
+MH  - Remote Sensing Technology
+COIS- Declaration of interests JL has received research grants from AstraZeneca, 
+      Sensible Medical, and Volumetrix and is a consultant for Abbott, Alleviant 
+      Medical, AstraZeneca, Boehringer Ingelheim, Boston Scientific, CVRx, Edwards, 
+      Impulse Dynamics, and VWave. ASD has received research grants from Alnylam, 
+      AstraZeneca, Bayer, and Novartis, is a consultant for Abbott and Alnylam, 
+      AstraZeneca, Amgen, Biofourmis, Boston Scientific, Boehringer Ingelheim, 
+      Cytokinetics, DalCor Pharma, Lexicon, Merck, Novartis, Relypsa, and Regeneron, 
+      and has received personal fees from Lupin Pharma and Sun Pharma. KB is a 
+      consultant for Abbott and has received personal fees from Pfizer and Novartis. DH 
+      is a consultant for Abbott, has received personal fees from Abbott, and has 
+      served on advisory boards for Abbott. SRK is a consultant for Abbott and CareDx 
+      and has received personal fees from Abbott and CareDx. MRM is a consultant for 
+      Abbott, Medtronic, Janssen, Portola, Bayer, Triple Gene, and Baim Institute for 
+      Clinical Research, has served on advisory boards for Abbott and Mesoblast, has 
+      served on the Clinical Events Committee for GUIDE-HF through the Baim Institute 
+      for Clinical Research, and has stock in NuPulseCV, Leviticus, and FineHeart. SFS 
+      has received research grants from Medtronic and Zoll, is a consultant for Abbott, 
+      Medtronic, and Milestone Pharmaceuticals, and has received personal fees from 
+      Medtronic and Zoll. AJS is a consultant for Abbott and has received personal fees 
+      from Abbott. FS has received research grants from Amgen and is a consultant for 
+      Abbott. MRZ, AD, AM, SP, and MRC are consultants for Abbott. NJ, PS, GG, JH, and 
+      PBA are employees of Abbott. All other authors declare no competing interests.
+EDAT- 2021/08/31 06:00
+MHDA- 2021/09/29 06:00
+CRDT- 2021/08/30 20:10
+PHST- 2021/06/10 00:00 [received]
+PHST- 2021/07/23 00:00 [revised]
+PHST- 2021/07/27 00:00 [accepted]
+PHST- 2021/08/31 06:00 [pubmed]
+PHST- 2021/09/29 06:00 [medline]
+PHST- 2021/08/30 20:10 [entrez]
+AID - S0140-6736(21)01754-2 [pii]
+AID - 10.1016/S0140-6736(21)01754-2 [doi]
+PST - ppublish
+SO  - Lancet. 2021 Sep 11;398(10304):991-1001. doi: 10.1016/S0140-6736(21)01754-2. Epub 
+      2021 Aug 27.
+
+PMID- 39462324
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20241027
+LR  - 20241030
+IS  - 1471-2261 (Electronic)
+IS  - 1471-2261 (Linking)
+VI  - 24
+IP  - 1
+DP  - 2024 Oct 26
+TI  - Efficacy and safety of coenzyme Q10 in heart failure: a meta-analysis of 
+      randomized controlled trials.
+PG  - 592
+LID - 10.1186/s12872-024-04232-z [doi]
+LID - 592
+AB  - BACKGROUND: The effectiveness and adverse effects of coenzyme Q10 for heart 
+      failure remain unclear owing to small sample sizes and variations in the quality 
+      of existing studies in literature. METHODS: The databases of EMBASE, PubMed, Web 
+      of Science, CINAHL databases, Scopus, Cochrane Central Register of Controlled 
+      Trials, VIP, Wanfang, and CNKI were searched for randomized controlled trials on 
+      the coenzyme Q10-assisted treatment of heart failure. Relevant literature was 
+      retrieved, data were extracted, and the risk of bias of the included studies was 
+      evaluated by two investigators independently using the Review Manager 5.4 
+      software and the STATA 15 software. RESULTS: In total, 33 studies were included 
+      in this meta-analysis, which showed that all-cause mortality [RR = 0.64, 95% CI 
+      (0.48, 0.85), P = 0.002; GRADE: moderate quality], hospitalization for heart 
+      failure [RR = 0.50, 95% CI (0.37, 0.67), P < 0.00001; GRADE: moderate quality], 
+      New York Heart Association classification [MD = - 0.29, 95% CI (- 0.39, - 0.19), 
+      P < 0.00001; GRADE: low quality], and brain natriuretic peptide level 
+      [MD = - 91.97, 95% CI (- 103.11, - 80.83), P < 0.00001; GRADE: low quality] were 
+      lower in the coenzyme Q10 group than in the control group. Meanwhile, left 
+      ventricular ejection fraction [MD = 0.51, 95% CI (0.31, 0.71), P < 0.00001; 
+      GRADE: low quality] and 6-min walk test result [MD = 31.70, 95% CI (19.96, 
+      43.43), P < 0.00001; GRADE: moderate quality] were better than those in the 
+      control group. CONCLUSIONS: According to the existing evidence, coenzyme Q10 
+      reduces all-cause mortality, hospitalization for heart failure, New York Heart 
+      Association classification, and brain natriuretic peptide level and improves left 
+      ventricular ejection fraction and 6-min walk test result in those with heart 
+      failure without major adverse effects. TRIAL REGISTRATION: This study protocol 
+      was registered in the International Prospective Register of Systematic Reviews 
+      (PROSPERO, http://www.crd.york.ac.uk/prospero ), with the registration number 
+      CRD42023493184.
+CI  - © 2024. The Author(s).
+FAU - Xu, Jiayi
+AU  - Xu J
+AD  - Suzhou Medical College of Soochow University, 199 Renai Road, Suzhou, Jiangsu, 
+      215123, China.
+FAU - Xiang, Luwei
+AU  - Xiang L
+AD  - School of Nursing, Nanjing University of Chinese Medicine, 138 Xianlin Road, 
+      Nanjing, Jiangsu, 210023, China.
+FAU - Yin, Xuwen
+AU  - Yin X
+AD  - School of Nursing, Nanjing University of Chinese Medicine, 138 Xianlin Road, 
+      Nanjing, Jiangsu, 210023, China.
+FAU - Song, Haiyan
+AU  - Song H
+AD  - School of Nursing, Nanjing University of Chinese Medicine, 138 Xianlin Road, 
+      Nanjing, Jiangsu, 210023, China.
+FAU - Chen, Chen
+AU  - Chen C
+AD  - School of Nursing, Nanjing Medical University, 101 Longmian Road, Nanjing, 
+      Jiangsu, 211166, China.
+FAU - Yang, Bei
+AU  - Yang B
+AD  - School of Nursing, Nanjing University of Chinese Medicine, 138 Xianlin Road, 
+      Nanjing, Jiangsu, 210023, China.
+FAU - Ye, Hongfang
+AU  - Ye H
+AD  - School of Nursing, Nanjing University of Chinese Medicine, 138 Xianlin Road, 
+      Nanjing, Jiangsu, 210023, China. 13915969627@163.com.
+AD  - Department of Nursing, Nanjing Drum Tower Hospital, 123 Zhongshan Road, Nanjing, 
+      Jiangsu, 210008, China. 13915969627@163.com.
+FAU - Gu, Zejuan
+AU  - Gu Z
+AD  - Department of Nursing, The First Affiliated Hospital of Nanjing Medical 
+      University, Jiangsu Province Hospital, 300 Guangzhou Road, Nanjing, Jiangsu, 
+      210029, China. jassicagu@163.com.
+LA  - eng
+GR  - SJCX23_0822/Jawaharlal Institute Of Postgraduate Medical Education and Research/
+GR  - SJCX23_0728/Postgraduate Research & Practice Innovation Program of Jiangsu 
+      Province/
+GR  - 2023-A371/Nanjing Drum Tower Hospital Nursing Research Project/
+GR  - CXTDA2017019/Jiangsu Provincial Medical Innovation Team/
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Systematic Review
+DEP - 20241026
+PL  - England
+TA  - BMC Cardiovasc Disord
+JT  - BMC cardiovascular disorders
+JID - 100968539
+RN  - EJ27X76M46 (coenzyme Q10)
+RN  - 1339-63-5 (Ubiquinone)
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Exercise Tolerance/drug effects
+MH  - *Heart Failure/drug therapy/mortality/physiopathology/diagnosis
+MH  - Randomized Controlled Trials as Topic
+MH  - Recovery of Function
+MH  - Risk Factors
+MH  - Stroke Volume/drug effects
+MH  - Time Factors
+MH  - Treatment Outcome
+MH  - *Ubiquinone/analogs & derivatives/therapeutic use/adverse effects
+MH  - *Ventricular Function, Left/drug effects
+PMC - PMC11515203
+OTO - NOTNLM
+OT  - Coenzyme Q10
+OT  - Heart failure
+OT  - Meta analysis
+OT  - Randomized controlled trial
+OT  - Safety outcomes
+COIS- The authors declare no competing interests.
+EDAT- 2024/10/27 18:21
+MHDA- 2024/10/27 18:22
+PMCR- 2024/10/26
+CRDT- 2024/10/27 13:13
+PHST- 2024/02/24 00:00 [received]
+PHST- 2024/10/03 00:00 [accepted]
+PHST- 2024/10/27 18:22 [medline]
+PHST- 2024/10/27 18:21 [pubmed]
+PHST- 2024/10/27 13:13 [entrez]
+PHST- 2024/10/26 00:00 [pmc-release]
+AID - 10.1186/s12872-024-04232-z [pii]
+AID - 4232 [pii]
+AID - 10.1186/s12872-024-04232-z [doi]
+PST - epublish
+SO  - BMC Cardiovasc Disord. 2024 Oct 26;24(1):592. doi: 10.1186/s12872-024-04232-z.
+
+PMID- 38382686
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240530
+LR  - 20250711
+IS  - 1556-3871 (Electronic)
+IS  - 1547-5271 (Linking)
+VI  - 21
+IP  - 6
+DP  - 2024 Jun
+TI  - Conduction system pacing versus biventricular pacing in heart failure with 
+      reduced ejection fraction: A systematic review and meta-analysis of randomized 
+      controlled trials.
+PG  - 881-889
+LID - S1547-5271(24)00207-8 [pii]
+LID - 10.1016/j.hrthm.2024.02.035 [doi]
+AB  - Conduction system pacing (CSP) has emerged as a promising alternative to 
+      biventricular pacing (BVP) in patients with heart failure with reduced ejection 
+      fraction (HFrEF) and ventricular dyssynchrony, but its benefits are uncertain. In 
+      this study, we aimed to evaluate clinical outcomes of CSP vs BVP for cardiac 
+      resynchronization in patients with HFrEF. PubMed, Scopus, and Cochrane databases 
+      were searched for randomized controlled trials comparing CSP to BVP for 
+      resynchronization therapy in patients with HFrEF. Heterogeneity was examined with 
+      I(2) statistics. A random-effects model was used for all outcomes. We included 7 
+      randomized controlled trials with 408 patients, of whom 200 (49%) underwent CSP. 
+      Compared to BVP, CSP resulted in a significantly greater reduction in QRS 
+      duration (MD -13.34 ms; 95% confidence interval [CI] -24.32 to -2.36, P = .02; 
+      I(2) = 91%) and New York Heart Association functional class (standardized mean 
+      difference [SMD] -0.37; 95% CI -0.69 to -0.05; P = .02; I(2) = 41%), and a 
+      significant increase in left ventricular ejection fraction (mean difference [MD] 
+      2.06%; 95% CI 0.16 to 3.97; P = .03; I(2) = 0%). No statistical difference was 
+      noted for left ventricular end-systolic volume (SMD -0.51 mL; 95% CI -1.26 to 
+      0.24; P = .18; I(2) = 83%), lead capture threshold (MD -0.08 V; 95% CI -0.42 to 
+      0.27; P = .66; I(2) = 66%), and procedure time (MD 5.99 minutes; 95% CI -15.91 to 
+      27.89; P = .59; I(2) = 79%). These findings suggest that CSP may have 
+      electrocardiographic, echocardiographic, and symptomatic benefits over BVP for 
+      patients with HFrEF requiring cardiac resynchronization.
+CI  - Copyright © 2024 Heart Rhythm Society. Published by Elsevier Inc. All rights 
+      reserved.
+FAU - Ferreira Felix, Iuri
+AU  - Ferreira Felix I
+AD  - Department of Medicine, Mayo Clinic School of Graduate Medical Education, 
+      Rochester, Minnesota. Electronic address: ferreirafelix.iuri@mayo.edu.
+FAU - Collini, Michelle
+AU  - Collini M
+AD  - Department of Medicine, Federal University of Paraná, Paraná, Brazil.
+FAU - Fonseca, Rafaela
+AU  - Fonseca R
+AD  - Department of Medicine, Federal University of Rio Grande do Sul, Porto Alegre, 
+      Brazil.
+FAU - Guida, Camila
+AU  - Guida C
+AD  - Division of Cardiology, Dante Pazzanese Institute of Cardiology, São Paulo, 
+      Brazil.
+FAU - Armaganijan, Luciana
+AU  - Armaganijan L
+AD  - Division of Cardiology, Dante Pazzanese Institute of Cardiology, São Paulo, 
+      Brazil.
+FAU - Healey, Jeffrey Sean
+AU  - Healey JS
+AD  - Population Health Research Institute, McMaster University, Hamilton, Ontario, 
+      Canada.
+FAU - Carvalho, Guilherme
+AU  - Carvalho G
+AD  - Division of Cardiology, Dante Pazzanese Institute of Cardiology, São Paulo, 
+      Brazil.
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Systematic Review
+DEP - 20240219
+PL  - United States
+TA  - Heart Rhythm
+JT  - Heart rhythm
+JID - 101200317
+SB  - IM
+CIN - Heart Rhythm. 2024 Jul;21(7):1182. doi: 10.1016/j.hrthm.2024.02.064. PMID: 
+      38490604
+CIN - Heart Rhythm. 2024 Jun;21(6):890-892. doi: 10.1016/j.hrthm.2024.03.022. PMID: 
+      38492872
+MH  - Humans
+MH  - *Cardiac Resynchronization Therapy/methods
+MH  - Heart Conduction System/physiopathology
+MH  - *Heart Failure/therapy/physiopathology
+MH  - Randomized Controlled Trials as Topic
+MH  - *Stroke Volume/physiology
+OTO - NOTNLM
+OT  - Biventricular pacing
+OT  - Cardiac resynchronization
+OT  - Conduction system pacing
+OT  - Heart failure
+OT  - His-bundle pacing
+OT  - Left bundle branch area pacing
+COIS- Disclosures The authors have no conflicts to disclose.
+EDAT- 2024/02/22 00:42
+MHDA- 2024/05/31 00:42
+CRDT- 2024/02/21 19:15
+PHST- 2024/02/04 00:00 [received]
+PHST- 2024/02/16 00:00 [revised]
+PHST- 2024/02/16 00:00 [accepted]
+PHST- 2024/05/31 00:42 [medline]
+PHST- 2024/02/22 00:42 [pubmed]
+PHST- 2024/02/21 19:15 [entrez]
+AID - S1547-5271(24)00207-8 [pii]
+AID - 10.1016/j.hrthm.2024.02.035 [doi]
+PST - ppublish
+SO  - Heart Rhythm. 2024 Jun;21(6):881-889. doi: 10.1016/j.hrthm.2024.02.035. Epub 2024 
+      Feb 19.
+
+PMID- 34489589
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220211
+LR  - 20230207
+IS  - 1759-5010 (Electronic)
+IS  - 1759-5002 (Print)
+IS  - 1759-5002 (Linking)
+VI  - 19
+IP  - 2
+DP  - 2022 Feb
+TI  - Heart failure with mid-range or mildly reduced ejection fraction.
+PG  - 100-116
+LID - 10.1038/s41569-021-00605-5 [doi]
+AB  - Left ventricular ejection fraction (EF) remains the major parameter for 
+      diagnosis, phenotyping, prognosis and treatment decisions in heart failure. The 
+      2016 ESC heart failure guidelines introduced a third EF category for an EF of 
+      40-49%, defined as heart failure with mid-range EF (HFmrEF). This category has 
+      been largely unexplored compared with heart failure with reduced EF (HFrEF; 
+      defined as EF <40% in this Review) and heart failure with preserved EF (HFpEF; 
+      defined as EF ≥50%). The prevalence of HFmrEF within the overall population of 
+      patients with HF is 10-25%. HFmrEF seems to be an intermediate clinical entity 
+      between HFrEF and HFpEF in some respects, but more similar to HFrEF in others, in 
+      particular with regard to the high prevalence of ischaemic heart disease in these 
+      patients. HFmrEF is milder than HFrEF, and the risk of cardiovascular events is 
+      lower in patients with HFmrEF or HFpEF than in those with HFrEF. By contrast, the 
+      risk of non-cardiovascular adverse events is similar or greater in patients with 
+      HFmrEF or HFpEF than in those with HFrEF. Evidence from post hoc and subgroup 
+      analyses of randomized clinical trials and a trial of an SGLT1-SGLT2 inhibitor 
+      suggests that drugs that are effective in patients with HFrEF might also be 
+      effective in patients with HFmrEF. Although the EF is a continuous measure with 
+      considerable variability, in this comprehensive Review we suggest that HFmrEF is 
+      a useful categorization of patients with HF and shares the most important 
+      clinical features with HFrEF, which supports the renaming of HFmrEF to HF with 
+      mildly reduced EF.
+CI  - © 2021. Springer Nature Limited.
+FAU - Savarese, Gianluigi
+AU  - Savarese G
+AD  - Division of Cardiology, Department of Medicine, Karolinska Institutet, Stockholm, 
+      Sweden.
+AD  - Heart and Vascular Theme, Karolinska University Hospital, Stockholm, Sweden.
+FAU - Stolfo, Davide
+AU  - Stolfo D
+AD  - Division of Cardiology, Department of Medicine, Karolinska Institutet, Stockholm, 
+      Sweden.
+AD  - Cardiothoracovascular Department, Azienda Sanitaria Universitaria Giuliano 
+      Isontina (ASUGI) and University Hospital of Trieste, Trieste, Italy.
+FAU - Sinagra, Gianfranco
+AU  - Sinagra G
+AUID- ORCID: 0000-0003-2700-8478
+AD  - Cardiothoracovascular Department, Azienda Sanitaria Universitaria Giuliano 
+      Isontina (ASUGI) and University Hospital of Trieste, Trieste, Italy.
+FAU - Lund, Lars H
+AU  - Lund LH
+AUID- ORCID: 0000-0003-1411-4482
+AD  - Division of Cardiology, Department of Medicine, Karolinska Institutet, Stockholm, 
+      Sweden. lars.lund@alumni.duke.edu.
+AD  - Heart and Vascular Theme, Karolinska University Hospital, Stockholm, Sweden. 
+      lars.lund@alumni.duke.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20210906
+PL  - England
+TA  - Nat Rev Cardiol
+JT  - Nature reviews. Cardiology
+JID - 101500075
+SB  - IM
+MH  - *Heart Failure/diagnosis/drug therapy/epidemiology
+MH  - Humans
+MH  - *Myocardial Ischemia
+MH  - Prognosis
+MH  - Randomized Controlled Trials as Topic
+MH  - Stroke Volume
+MH  - Ventricular Function, Left
+PMC - PMC8420965
+COIS- G. Savarese reports grants and personal fees from AstraZeneca and Vifor; grants 
+      and non-financial support from Boehringer Ingelheim; personal fees from 
+      Cytokinetics, GENESIS, Medtronic, Radcliffe, Roche, Servier and Società Prodotti 
+      Antibiotici; and grants from Boston Scientific, Novartis and Pharmacosmos, 
+      unrelated to this Review. D.S. reports personal fees from GlaxoSmithKline, MSD 
+      and Novartis. L.H.L. reports personal fees from Abbott, Bayer, Lexicon, Medscape, 
+      Merck, Myokardia, Pharmacosmos, Radcliffe Cardiology and Sanofi; grants and 
+      personal fees from AstraZeneca, Boehringer Ingelheim, Novartis and 
+      Vifor–Fresenius; and grants from Boston Scientific, unrelated to this Review. G. 
+      Sinagra declares no competing interests.
+EDAT- 2021/09/08 06:00
+MHDA- 2022/02/12 06:00
+PMCR- 2021/09/06
+CRDT- 2021/09/07 07:38
+PHST- 2021/07/19 00:00 [accepted]
+PHST- 2021/09/08 06:00 [pubmed]
+PHST- 2022/02/12 06:00 [medline]
+PHST- 2021/09/07 07:38 [entrez]
+PHST- 2021/09/06 00:00 [pmc-release]
+AID - 10.1038/s41569-021-00605-5 [pii]
+AID - 605 [pii]
+AID - 10.1038/s41569-021-00605-5 [doi]
+PST - ppublish
+SO  - Nat Rev Cardiol. 2022 Feb;19(2):100-116. doi: 10.1038/s41569-021-00605-5. Epub 
+      2021 Sep 6.
+
+PMID- 38179304
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240109
+LR  - 20250724
+IS  - 1664-2392 (Print)
+IS  - 1664-2392 (Electronic)
+IS  - 1664-2392 (Linking)
+VI  - 14
+DP  - 2023
+TI  - Comparative cardiovascular benefits of individual SGLT2 inhibitors in type 2 
+      diabetes and heart failure: a systematic review and network meta-analysis of 
+      randomized controlled trials.
+PG  - 1216160
+LID - 10.3389/fendo.2023.1216160 [doi]
+LID - 1216160
+AB  - BACKGROUND: In patients with type 2 diabetes (T2D) and a history of heart failure 
+      (HF), sodium-glucose cotransporter-2 inhibitors (SGLT2is) have demonstrated 
+      cardiovascular (CV) benefits. However, the comparative efficacy of individual 
+      SGLT2is remains uncertain. This network meta-analysis (NMA) compared the efficacy 
+      and safety of five SGLT2is (canagliflozin, dapagliflozin, empagliflozin, 
+      ertugliflozin, and sotagliflozin) on CV outcomes in these patients. MATERIALS AND 
+      METHODS: PubMed, Embase, and the Cochrane Central Register of Controlled Trials 
+      were searched up to September 23, 2022, to identify all randomized controlled 
+      trials (RCTs) comparing SGLT2is to placebo in T2D patients with HF. The main 
+      outcomes included composite CV death/heart failure hospitalization (HFH), HFH, CV 
+      death, all-cause mortality, and adverse events. Pairwise and NMA approaches were 
+      applied. RESULTS: Our analysis included 11 RCTs with a total of 20,438 patients 
+      with T2D and HF. All SGLT2is significantly reduced HFH compared to standard of 
+      care (SoC) alone. "Add-on" SGLT2is, except ertugliflozin, significantly reduced 
+      composite CV death/HFH relative to SoC alone. Moreover, canagliflozin had lower 
+      composite CV death/HFH compared to dapagliflozin. Based on the surface under the 
+      cumulative ranking curve (SUCRA), the top-ranked SGLT2is for reducing HFH were 
+      canagliflozin (95.5%), sotagliflozin (66.0%), and empagliflozin (57.2%). 
+      Head-to-head comparisons found no significant differences between individual 
+      SGLT2is in reducing CV death. "Add-on" SGLT2is reduced all-cause mortality 
+      compared with SoC alone, although only dapagliflozin was statistically 
+      significant. No SGLT2is were significantly associated with serious adverse 
+      events. A sensitivity analysis focusing on HF-specific trials found that 
+      dapagliflozin, empagliflozin, and sotagliflozin significantly reduced composite 
+      CV death/HFH, consistent with the main analysis. However, no significant 
+      differences were identified from their head-to-head comparisons in the NMA. The 
+      SUCRA indicated that sotagliflozin had the highest probability of reducing 
+      composite CV death/HFH (97.6%), followed by empagliflozin (58.4%) and 
+      dapagliflozin (44.0%). CONCLUSION: SGLT2is significantly reduce the composite CV 
+      death/HFH outcome. Among them, canagliflozin may be considered the preferred 
+      treatment for patients with diabetes and a history of heart failure, but it may 
+      also be associated with an increased risk of any adverse events compared to other 
+      SGLT2is. However, a sensitivity analysis focusing on HF-specific trials 
+      identified sotagliflozin as the most likely agent to reduce CV death/HFH, 
+      followed by empagliflozin and dapagliflozin. SYSTEMATIC REVIEW REGISTRATION: 
+      https://www.crd.york.ac.uk/prospero/, identifier CRD42022353754.
+CI  - Copyright © 2023 Kongmalai, Hadnorntun, Leelahavarong, Kongmalai, Srinonprasert, 
+      Chirakarnjanakorn, Chaikledkaew, McKay, Attia and Thakkinstian.
+FAU - Kongmalai, Tanawan
+AU  - Kongmalai T
+AD  - Mahidol University Health Technology Assessment (MUHTA) Graduate Program, Mahidol 
+      University, Bangkok, Thailand.
+AD  - Siriraj Health Policy Unit, Faculty of Medicine, Siriraj Hospital, Mahidol 
+      University, Bangkok, Thailand.
+AD  - Division of Endocrinology and Metabolism, Department of Medicine, Faculty of 
+      Medicine, Siriraj Hospital, Mahidol University, Bangkok, Thailand.
+FAU - Hadnorntun, Phorntida
+AU  - Hadnorntun P
+AD  - Siriraj Health Policy Unit, Faculty of Medicine, Siriraj Hospital, Mahidol 
+      University, Bangkok, Thailand.
+FAU - Leelahavarong, Pattara
+AU  - Leelahavarong P
+AD  - Siriraj Health Policy Unit, Faculty of Medicine, Siriraj Hospital, Mahidol 
+      University, Bangkok, Thailand.
+FAU - Kongmalai, Pinkawas
+AU  - Kongmalai P
+AD  - Department of Orthopedics, Faculty of Medicine, Kasetsart University, Bangkok, 
+      Thailand.
+FAU - Srinonprasert, Varalak
+AU  - Srinonprasert V
+AD  - Mahidol University Health Technology Assessment (MUHTA) Graduate Program, Mahidol 
+      University, Bangkok, Thailand.
+AD  - Siriraj Health Policy Unit, Faculty of Medicine, Siriraj Hospital, Mahidol 
+      University, Bangkok, Thailand.
+AD  - Division of Geriatric Medicine, Department of Medicine, Faculty of Medicine, 
+      Siriraj Hospital, Mahidol University, Bangkok, Thailand.
+FAU - Chirakarnjanakorn, Srisakul
+AU  - Chirakarnjanakorn S
+AD  - Division of Cardiology, Department of Medicine, Faculty of Medicine, Siriraj 
+      Hospital, Mahidol University, Bangkok, Thailand.
+FAU - Chaikledkaew, Usa
+AU  - Chaikledkaew U
+AD  - Mahidol University Health Technology Assessment (MUHTA) Graduate Program, Mahidol 
+      University, Bangkok, Thailand.
+AD  - Department of Pharmacy, Faculty of Pharmacy, Mahidol University, Bangkok, 
+      Thailand.
+FAU - McKay, Gareth
+AU  - McKay G
+AD  - Centre for Public Health, School of Medicine, Dentistry, and Biomedical Sciences, 
+      Queen's University, Belfast, United Kingdom.
+FAU - Attia, John
+AU  - Attia J
+AD  - School of Medicine and Public Health, University of Newcastle, Callaghan, NSW, 
+      Australia.
+FAU - Thakkinstian, Ammarin
+AU  - Thakkinstian A
+AD  - Mahidol University Health Technology Assessment (MUHTA) Graduate Program, Mahidol 
+      University, Bangkok, Thailand.
+AD  - Department of Clinical Epidemiology and Biostatistics, Faculty of Medicine, 
+      Ramathibodi Hospital, Mahidol University, Bangkok, Thailand.
+LA  - eng
+GR  - MC_PC_22005/MRC_/Medical Research Council/United Kingdom
+PT  - Journal Article
+PT  - Network Meta-Analysis
+PT  - Research Support, Non-U.S. Gov't
+PT  - Systematic Review
+DEP - 20231220
+PL  - Switzerland
+TA  - Front Endocrinol (Lausanne)
+JT  - Frontiers in endocrinology
+JID - 101555782
+RN  - 0SAC974Z85 (Canagliflozin)
+RN  - 1ULL0QJ8UC (dapagliflozin)
+RN  - HDC1R2M35U (empagliflozin)
+RN  - 0 (Hypoglycemic Agents)
+RN  - 0 (Sodium-Glucose Transporter 2 Inhibitors)
+SB  - IM
+MH  - Humans
+MH  - Canagliflozin/therapeutic use
+MH  - *Diabetes Mellitus, Type 2/complications
+MH  - *Heart Failure/complications
+MH  - Hypoglycemic Agents/pharmacology
+MH  - Randomized Controlled Trials as Topic
+MH  - *Sodium-Glucose Transporter 2 Inhibitors/therapeutic use
+PMC - PMC10765518
+OTO - NOTNLM
+OT  - cardiovascular disease
+OT  - congestive heart failure
+OT  - diabetes mellitus
+OT  - network meta-analysis
+OT  - sodium-glucose cotransporter 2 inhibitor (SGLT2 inhibitor)
+OT  - systematic review
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2024/01/05 06:43
+MHDA- 2024/01/08 06:42
+PMCR- 2023/01/01
+CRDT- 2024/01/05 03:57
+PHST- 2023/05/03 00:00 [received]
+PHST- 2023/11/17 00:00 [accepted]
+PHST- 2024/01/08 06:42 [medline]
+PHST- 2024/01/05 06:43 [pubmed]
+PHST- 2024/01/05 03:57 [entrez]
+PHST- 2023/01/01 00:00 [pmc-release]
+AID - 10.3389/fendo.2023.1216160 [doi]
+PST - epublish
+SO  - Front Endocrinol (Lausanne). 2023 Dec 20;14:1216160. doi: 
+      10.3389/fendo.2023.1216160. eCollection 2023.
+
+PMID- 39282788
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20241220
+LR  - 20250116
+IS  - 1879-0844 (Electronic)
+IS  - 1388-9842 (Print)
+IS  - 1388-9842 (Linking)
+VI  - 26
+IP  - 11
+DP  - 2024 Nov
+TI  - The Spironolactone Initiation Registry Randomized Interventional Trial in Heart 
+      Failure with Preserved Ejection Fraction (SPIRRIT-HFpEF): Rationale and design.
+PG  - 2453-2463
+LID - 10.1002/ejhf.3453 [doi]
+AB  - AIMS: Benefits of mineralocorticoid receptor antagonists (MRAs) in heart failure 
+      with preserved and mildly reduced ejection fraction (HFpEF/HFmrEF) have not been 
+      established. Conventional randomized controlled trials are complex and expensive. 
+      The Spironolactone Initiation Registry Randomized Interventional Trial in Heart 
+      Failure with Preserved Ejection Fraction (SPIRRIT-HFpEF) is a unique pragmatic 
+      registry-based randomized controlled trial. METHODS: SPIRRIT-HFpEF is a 
+      multicentre, prospective, randomized, open-label, blinded endpoint trial 
+      conducted on platforms in the Swedish Heart Failure Registry (SwedeHF) and the 
+      United States (US) Trial Innovation Network. Patients with HFpEF/HFmrEF are 
+      randomized 1:1 to spironolactone (or eplerenone) in addition to usual care, 
+      versus usual care alone. The primary outcome is total number of cardiovascular 
+      deaths and hospitalizations for heart failure. Outcomes are collected from 
+      Swedish administrative complete coverage registries and a US call centre and 
+      subsequently adjudicated. Simple eligibility criteria were based on data 
+      available in SwedeHF: heart failure as outpatient or at discharge from hospital, 
+      left ventricular ejection fraction ≥40%, N-terminal pro-B-type natriuretic 
+      peptide >300 ng/L (in sinus rhythm) or >750 ng/L (in atrial fibrillation), with 
+      pre-specified adjustment for elevated body mass index, and chronic loop diuretic 
+      use. Power and sample size assessments were based on an event-driven design 
+      allowing enrolment over approximately 6 years, and application of hazard ratios 
+      from the TOPCAT trial, Americas subset. The final sample size is expected to be 
+      approximately 2400 patients. CONCLUSION: SPIRRIT-HFpEF will be informative on the 
+      effectiveness of generic MRAs in HFpEF and HFmrEF, and on the feasibility of 
+      conducting pragmatic and registry-based trials in heart failure and other chronic 
+      conditions.
+CI  - © 2024 The Author(s). European Journal of Heart Failure published by John Wiley & 
+      Sons Ltd on behalf of European Society of Cardiology.
+FAU - Lund, Lars H
+AU  - Lund LH
+AUID- ORCID: 0000-0003-1411-4482
+AD  - Department of Medicine, Karolinska Institutet, Sweden.
+AD  - Department of Cardiology, Karolinska University Hospital, Stockholm, Sweden.
+FAU - James, Stefan
+AU  - James S
+AD  - Uppsala Clinical Research Center and Department of Medical Sciences, Cardiology, 
+      Uppsala University, Uppsala, Sweden.
+FAU - DeVore, Adam D
+AU  - DeVore AD
+AD  - Duke Clinical Research Institute, Duke University School of Medicine, Durham, NC, 
+      USA.
+FAU - Anstrom, Kevin J
+AU  - Anstrom KJ
+AD  - Collaborative Studies Coordinating Center, Department of Biostatistics, 
+      University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.
+FAU - Fudim, Marat
+AU  - Fudim M
+AD  - Duke Clinical Research Institute, Duke University School of Medicine, Durham, NC, 
+      USA.
+FAU - Aaronson, Keith D
+AU  - Aaronson KD
+AD  - Division of Cardiovascular Medicine, Department of Internal Medicine, University 
+      of Michigan, Ann Arbor, MI, USA.
+FAU - Dahlström, Ulf
+AU  - Dahlström U
+AD  - Department of Cardiology, Linkoping University, Linkoping, Sweden.
+AD  - Department of Health, Medicine and Caring Sciences, Linkoping University, 
+      Linkoping, Sweden.
+FAU - Desvigne-Nickens, Patrice
+AU  - Desvigne-Nickens P
+AD  - Division of Cardiovascular Sciences, National Heart, Lung, and Blood Institute, 
+      Bethesda, MD, USA.
+FAU - Fleg, Jerome L
+AU  - Fleg JL
+AD  - Division of Cardiovascular Sciences, National Heart, Lung, and Blood Institute, 
+      Bethesda, MD, USA.
+FAU - Yang, Song
+AU  - Yang S
+AD  - Division of Intramural Research, National Heart, Lung, and Blood Institute, 
+      Bethesda, MD, USA.
+FAU - Fu, Michael
+AU  - Fu M
+AD  - Sahlgrenska Academy and University of Gothenburg, Göteborg, Sweden.
+FAU - Hage, Camilla
+AU  - Hage C
+AD  - Department of Medicine, Karolinska Institutet, Sweden.
+AD  - Department of Cardiology, Karolinska University Hospital, Stockholm, Sweden.
+FAU - Held, Claes
+AU  - Held C
+AD  - Uppsala Clinical Research Center and Department of Medical Sciences, Cardiology, 
+      Uppsala University, Uppsala, Sweden.
+FAU - Karlström, Patric
+AU  - Karlström P
+AD  - Department of Cardiology, Linkoping University, Linkoping, Sweden.
+AD  - Department of Health, Medicine and Caring Sciences, Linkoping University, 
+      Linkoping, Sweden.
+FAU - Nygren, Magnus
+AU  - Nygren M
+AD  - Department of Medicine, Karolinska Institutet, Sweden.
+AD  - Department of Cardiology, Karolinska University Hospital, Stockholm, Sweden.
+FAU - Peterson, Eric D
+AU  - Peterson ED
+AD  - Department of Internal Medicine, University of Texas Southwestern Medical Center, 
+      Dallas, TX, USA.
+FAU - Pol, Tymon
+AU  - Pol T
+AD  - Uppsala Clinical Research Center and Department of Medical Sciences, Cardiology, 
+      Uppsala University, Uppsala, Sweden.
+FAU - Sapp, Shelly
+AU  - Sapp S
+AD  - Duke Clinical Research Institute, Duke University School of Medicine, Durham, NC, 
+      USA.
+FAU - Sundström, Johan
+AU  - Sundström J
+AD  - Department of Medical Sciences, Uppsala University, Uppsala, Sweden.
+AD  - The George Institute for Global Health, University of New South Wales, Sydney, 
+      NSW, Australia.
+FAU - Östlund, Ollie
+AU  - Östlund O
+AD  - Uppsala Clinical Research Center and Department of Medical Sciences, Cardiology, 
+      Uppsala University, Uppsala, Sweden.
+FAU - Oldgren, Jonas
+AU  - Oldgren J
+AD  - Uppsala Clinical Research Center and Department of Medical Sciences, Cardiology, 
+      Uppsala University, Uppsala, Sweden.
+FAU - Pitt, Bertram
+AU  - Pitt B
+AD  - Division of Cardiovascular Medicine, Department of Internal Medicine, University 
+      of Michigan, Ann Arbor, MI, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+DEP - 20240916
+PL  - England
+TA  - Eur J Heart Fail
+JT  - European journal of heart failure
+JID - 100887595
+RN  - 27O7W4T232 (Spironolactone)
+RN  - 0 (Mineralocorticoid Receptor Antagonists)
+SB  - IM
+MH  - Humans
+MH  - *Heart Failure/drug therapy/physiopathology
+MH  - *Spironolactone/therapeutic use
+MH  - *Stroke Volume/physiology
+MH  - *Mineralocorticoid Receptor Antagonists/therapeutic use
+MH  - *Registries
+MH  - Sweden
+MH  - Prospective Studies
+MH  - United States/epidemiology
+MH  - Female
+MH  - Male
+MH  - Aged
+PMC - PMC11659483
+OTO - NOTNLM
+OT  - Aldosterone
+OT  - Eplerenone
+OT  - Heart failure with mildly reduced ejection fraction
+OT  - Heart failure with preserved ejection fraction
+OT  - Mineralocorticoid receptor antagonists
+OT  - Pragmatic trial
+OT  - Registry‐based randomized clinical trial
+OT  - Spironolactone
+EDAT- 2024/09/17 10:45
+MHDA- 2024/12/20 06:23
+PMCR- 2024/12/20
+CRDT- 2024/09/16 06:44
+PHST- 2024/08/17 00:00 [revised]
+PHST- 2024/08/07 00:00 [received]
+PHST- 2024/08/20 00:00 [accepted]
+PHST- 2024/12/20 06:23 [medline]
+PHST- 2024/09/17 10:45 [pubmed]
+PHST- 2024/09/16 06:44 [entrez]
+PHST- 2024/12/20 00:00 [pmc-release]
+AID - EJHF3453 [pii]
+AID - 10.1002/ejhf.3453 [doi]
+PST - ppublish
+SO  - Eur J Heart Fail. 2024 Nov;26(11):2453-2463. doi: 10.1002/ejhf.3453. Epub 2024 
+      Sep 16.
+
+PMID- 32783109
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211025
+LR  - 20250919
+IS  - 1573-7322 (Electronic)
+IS  - 1382-4147 (Linking)
+VI  - 26
+IP  - 1
+DP  - 2021 Jan
+TI  - Comparative effects of furosemide and other diuretics in the treatment of heart 
+      failure: a systematic review and combined meta-analysis of randomized controlled 
+      trials.
+PG  - 127-136
+LID - 10.1007/s10741-020-10003-7 [doi]
+AB  - Diuretics have an essential role in the management of heart failure (HF). 
+      However, each drug has its own benefit and side effect. Side effects include 
+      fluid, electrolyte abnormalities, and acid-base disturbance. These adverse 
+      effects of diuretics predispose patients to serious cardiac arrhythmias and may 
+      increase the risk of arrhythmic mortality. Herein, we aim to summarize the 
+      relative efficacy and safety of all available diuretics used in the treatment of 
+      patients with HF. In June 2017, a systematic electronic database search was 
+      conducted in nine databases. All randomized controlled trials (RCTs) comparing 
+      the different diuretics used in HF were included for meta-analysis. The protocol 
+      was registered in Prospero with CRD42018084819. Among the included 54 studies 
+      (10,740 patients), 34 RCTs were eligible for quantitative network meta-analysis 
+      (NMA) and traditional meta-analysis while the other 20 studies were qualitatively 
+      analyzed. Our results showed that azosemide and torasemide caused a significant 
+      reduction in brain natriuretic peptide (BNP) level. Torasemide also caused a 
+      significant decrease in collagen volume fraction (CVF) and edema. No significant 
+      difference between the agents concerning glomerular filtration rate (GFR), water 
+      extraction, and sodium excretion was demonstrated. Regarding side effects, no 
+      significant difference among diuretics was observed in terms of hospital 
+      readmission and mortality rates. Diuretics are the main treatment of hypervolemia 
+      in HF patients. The choice of appropriate diuretic is essential for successful 
+      management and is mainly guided by patient clinical situations and the presence 
+      of other co-morbidities.
+FAU - Eid, Peter Samuel
+AU  - Eid PS
+AUID- ORCID: 0000-0002-8982-2822
+AD  - Faculty of Medicine, Ain Shams University, Cairo, Egypt.
+AD  - Online research Club (http://www.onlineresearchclub.org/), Nagasaki, Japan.
+FAU - Ibrahim, Doaa Alaa
+AU  - Ibrahim DA
+AUID- ORCID: 0000-0002-3821-0981
+AD  - Faculty of Medicine, Ain Shams University, Cairo, Egypt.
+AD  - Online research Club (http://www.onlineresearchclub.org/), Nagasaki, Japan.
+FAU - Zayan, Ahmad Helmy
+AU  - Zayan AH
+AUID- ORCID: 0000-0003-2581-0459
+AD  - Online research Club (http://www.onlineresearchclub.org/), Nagasaki, Japan.
+AD  - Menoufia University, Menoufia, Egypt.
+FAU - Elrahman, Manal Mahmoud Abd
+AU  - Elrahman MMA
+AUID- ORCID: 0000-0002-7733-2711
+AD  - Faculty of Medicine, Ain Shams University, Cairo, Egypt.
+AD  - Online research Club (http://www.onlineresearchclub.org/), Nagasaki, Japan.
+FAU - Shehata, Mostafa Ahmed Abdo
+AU  - Shehata MAA
+AUID- ORCID: 0000-0003-3201-6616
+AD  - Online research Club (http://www.onlineresearchclub.org/), Nagasaki, Japan.
+AD  - Faculty of Medicine, Alexandria University, Alexandria, Egypt.
+FAU - Kandil, Hend
+AU  - Kandil H
+AUID- ORCID: 0000-0003-2994-1835
+AD  - Online research Club (http://www.onlineresearchclub.org/), Nagasaki, Japan.
+AD  - Faculty of Medicine, Menoufia University, Menoufia, Egypt.
+FAU - Abouibrahim, Mahmoud Ahmed
+AU  - Abouibrahim MA
+AUID- ORCID: 0000-0003-1137-9215
+AD  - Online research Club (http://www.onlineresearchclub.org/), Nagasaki, Japan.
+AD  - Faculty of Medicine, Cairo University, Cairo, Egypt.
+FAU - Duy, Luc Minh
+AU  - Duy LM
+AUID- ORCID: 0000-0002-7707-2171
+AD  - Online research Club (http://www.onlineresearchclub.org/), Nagasaki, Japan.
+AD  - Pham Ngoc Thach University of Medicine, Ho Chi Minh, 700000, Vietnam.
+FAU - Shinkar, Ashraf
+AU  - Shinkar A
+AUID- ORCID: 0000-0001-7983-4240
+AD  - Online research Club (http://www.onlineresearchclub.org/), Nagasaki, Japan.
+AD  - Psychiatry Department, Ain Shams University, Cairo, Egypt.
+FAU - Elfaituri, Muhammed Khaled
+AU  - Elfaituri MK
+AUID- ORCID: 0000-0002-1251-2797
+AD  - Online research Club (http://www.onlineresearchclub.org/), Nagasaki, Japan.
+AD  - Faculty of Medicine, University of Tripoli, Tripoli, Libya.
+FAU - Minh, Le Huu Nhat
+AU  - Minh LHN
+AUID- ORCID: 0000-0002-7728-1539
+AD  - Online research Club (http://www.onlineresearchclub.org/), Nagasaki, Japan.
+AD  - University of Medicine and Pharmacy at Ho Chi Minh City, Ho Chi Minh City, 
+      Vietnam.
+FAU - Fahmy, Mostafa Mahmoud
+AU  - Fahmy MM
+AUID- ORCID: 0000-0003-2818-6436
+AD  - Online research Club (http://www.onlineresearchclub.org/), Nagasaki, Japan.
+AD  - Faculty of Medicine, Tanta University, Tanta, Egypt.
+FAU - Tam, Dao Ngoc Hien
+AU  - Tam DNH
+AUID- ORCID: 0000-0003-0162-2373
+AD  - Online research Club (http://www.onlineresearchclub.org/), Nagasaki, Japan.
+AD  - Nanogen Pharmaceutical Biotechnology Joint Stock Company, Ho Chi Minh city, 
+      700000, Vietnam.
+FAU - Vuong, Nguyen Lam
+AU  - Vuong NL
+AUID- ORCID: 0000-0003-2684-3041
+AD  - Online research Club (http://www.onlineresearchclub.org/), Nagasaki, Japan.
+AD  - University of Medicine and Pharmacy at Ho Chi Minh City, Ho Chi Minh City, 
+      Vietnam.
+FAU - Shah, Jaffer
+AU  - Shah J
+AUID- ORCID: 0000-0002-8961-218X
+AD  - Online research Club (http://www.onlineresearchclub.org/), Nagasaki, Japan.
+AD  - Drexel University College of Medicine, Philadelphia, PA, USA.
+FAU - Do, Van Buu Dan
+AU  - Do VBD
+AUID- ORCID: 0000-0002-6483-259X
+AD  - Tam Duc Cardiology Hospital, Ho Chi Minh City, Vietnam.
+FAU - Hirayama, Kenji
+AU  - Hirayama K
+AUID- ORCID: 0000-0001-9467-1777
+AD  - Department of Immunogenetics, Institute of Tropical Medicine (NEKKEN), Leading 
+      Graduate School Program, and Graduate School of Biomedical Sciences, Nagasaki 
+      University, 1-12-4 Sakamoto, Nagasaki, 852-8523, Japan.
+FAU - Huy, Nguyen Tien
+AU  - Huy NT
+AUID- ORCID: 0000-0002-9543-9440
+AD  - Institute of Research and Development, Duy Tan University, Da Nang, 550000, 
+      Vietnam. nguyentienhuy4@duytan.edu.vn.
+LA  - eng
+PT  - Journal Article
+PT  - Network Meta-Analysis
+PT  - Research Support, Non-U.S. Gov't
+PT  - Systematic Review
+PL  - United States
+TA  - Heart Fail Rev
+JT  - Heart failure reviews
+JID - 9612481
+RN  - 0 (Diuretics)
+RN  - 7LXU5N7ZO5 (Furosemide)
+RN  - W31X2H97FB (Torsemide)
+SB  - IM
+MH  - Diuretics/therapeutic use
+MH  - *Furosemide/therapeutic use
+MH  - *Heart Failure/drug therapy
+MH  - Humans
+MH  - Randomized Controlled Trials as Topic
+MH  - Torsemide
+OTO - NOTNLM
+OT  - Diuretics
+OT  - Furosemide
+OT  - Heart dysfunction
+OT  - Heart failure
+OT  - Myocardial failure
+EDAT- 2020/08/13 06:00
+MHDA- 2021/10/26 06:00
+CRDT- 2020/08/13 06:00
+PHST- 2020/08/13 06:00 [pubmed]
+PHST- 2021/10/26 06:00 [medline]
+PHST- 2020/08/13 06:00 [entrez]
+AID - 10.1007/s10741-020-10003-7 [pii]
+AID - 10.1007/s10741-020-10003-7 [doi]
+PST - ppublish
+SO  - Heart Fail Rev. 2021 Jan;26(1):127-136. doi: 10.1007/s10741-020-10003-7.
+
+PMID- 38599221
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240427
+LR  - 20250225
+IS  - 1474-547X (Electronic)
+IS  - 0140-6736 (Print)
+IS  - 0140-6736 (Linking)
+VI  - 403
+IP  - 10437
+DP  - 2024 Apr 27
+TI  - Semaglutide versus placebo in people with obesity-related heart failure with 
+      preserved ejection fraction: a pooled analysis of the STEP-HFpEF and STEP-HFpEF 
+      DM randomised trials.
+PG  - 1635-1648
+LID - S0140-6736(24)00469-0 [pii]
+LID - 10.1016/S0140-6736(24)00469-0 [doi]
+AB  - BACKGROUND: In the STEP-HFpEF (NCT04788511) and STEP-HFpEF DM (NCT04916470) 
+      trials, the GLP-1 receptor agonist semaglutide improved symptoms, physical 
+      limitations, bodyweight, and exercise function in people with obesity-related 
+      heart failure with preserved ejection fraction. In this prespecified pooled 
+      analysis of the STEP-HFpEF and STEP-HFpEF DM trials, we aimed to provide a more 
+      definitive assessment of the effects of semaglutide across a range of outcomes 
+      and to test whether these effects were consistent across key patient subgroups. 
+      METHODS: We conducted a prespecified pooled analysis of individual patient data 
+      from STEP-HFpEF and STEP-HFpEF DM, randomised, double-blind, placebo-controlled 
+      trials at 129 clinical research sites in 18 countries. In both trials, eligible 
+      participants were aged 18 years or older, had heart failure with a left 
+      ventricular ejection fraction of at least 45%, a BMI of at least 30 kg/m(2), New 
+      York Heart Association class II-IV symptoms, and a Kansas City Cardiomyopathy 
+      Questionnaire Clinical Summary Score (KCCQ-CSS; a measure of heart 
+      failure-related symptoms and physical limitations) of less than 90 points. In 
+      STEP-HFpEF, people with diabetes or glycated haemoglobin A(1c) concentrations of 
+      at least 6·5% were excluded, whereas for inclusion in STEP-HFpEF DM participants 
+      had to have been diagnosed with type 2 diabetes at least 90 days before screening 
+      and to have an HbA(1c) of 10% or lower. In both trials, participants were 
+      randomly assigned to either 2·4 mg semaglutide once weekly or matched placebo for 
+      52 weeks. The dual primary endpoints were change from baseline to week 52 in 
+      KCCQ-CSS and bodyweight in all randomly assigned participants. Confirmatory 
+      secondary endpoints included change from baseline to week 52 in 6-min walk 
+      distance, a hierarchical composite endpoint (all-cause death, heart failure 
+      events, and differences in changes in KCCQ-CSS and 6-min walk distance); and 
+      C-reactive protein (CRP) concentrations. Heterogeneity in treatment effects was 
+      assessed across subgroups of interest. We assessed safety in all participants who 
+      received at least one dose of study drug. FINDINGS: Between March 19, 2021 and 
+      March 9, 2022, 529 people were randomly assigned in STEP-HFpEF, and between June 
+      27, 2021 and Sept 2, 2022, 616 were randomly assigned in STEP-HFpEF DM. Overall, 
+      1145 were included in our pooled analysis, 573 in the semaglutide group and 572 
+      in the placebo group. Improvements in KCCQ-CSS and reductions in bodyweight 
+      between baseline and week 52 were significantly greater in the semaglutide group 
+      than in the placebo group (mean between-group difference for the change from 
+      baseline to week 52 in KCCQ-CSS 7·5 points [95% CI 5·3 to 9·8]; p<0·0001; mean 
+      between-group difference in bodyweight at week 52 -8·4% [-9·2 to -7·5]; 
+      p<0·0001). For the confirmatory secondary endpoints, 6-min walk distance (mean 
+      between-group difference at week 52 17·1 metres [9·2 to 25·0]) and the 
+      hierarchical composite endpoint (win ratio 1·65 [1·42 to 1·91]) were 
+      significantly improved, and CRP concentrations (treatment ratio 0·64 [0·56 to 
+      0·72]) were significantly reduced, in the semaglutide group compared with the 
+      placebo group (p<0·0001 for all comparisons). For the dual primary endpoints, the 
+      efficacy of semaglutide was largely consistent across multiple subgroups, 
+      including those defined by age, race, sex, BMI, systolic blood pressure, baseline 
+      CRP, and left ventricular ejection fraction. 161 serious adverse events were 
+      reported in the semaglutide group compared with 301 in the placebo group. 
+      INTERPRETATION: In this prespecified pooled analysis of the STEP-HFpEF and 
+      STEP-HFpEF DM trials, semaglutide was superior to placebo in improving heart 
+      failure-related symptoms and physical limitations, and reducing bodyweight in 
+      participants with obesity-related heart failure with preserved ejection fraction. 
+      These effects were largely consistent across patient demographic and clinical 
+      characteristics. Semaglutide was well tolerated. FUNDING: Novo Nordisk.
+CI  - Copyright © 2024 Elsevier Ltd. All rights reserved.
+FAU - Butler, Javed
+AU  - Butler J
+AD  - Baylor Scott & White Research Institute, Dallas, TX, USA; Department of Medicine, 
+      University of Mississippi, Jackson, MS, USA.
+FAU - Shah, Sanjiv J
+AU  - Shah SJ
+AD  - Division of Cardiology, Department of Medicine, Northwestern University Feinberg 
+      School of Medicine, Chicago, IL, USA.
+FAU - Petrie, Mark C
+AU  - Petrie MC
+AD  - School of Cardiovascular and Metabolic Health, University of Glasgow, Glasgow, 
+      UK.
+FAU - Borlaug, Barry A
+AU  - Borlaug BA
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, USA.
+FAU - Abildstrøm, Steen Z
+AU  - Abildstrøm SZ
+AD  - Novo Nordisk, Søborg, Denmark.
+FAU - Davies, Melanie J
+AU  - Davies MJ
+AD  - Diabetes Research Centre, University of Leicester, Leicester, UK; National 
+      Institute for Health and Care Research Leicester Biomedical Research Centre, 
+      Leicester, UK.
+FAU - Hovingh, G Kees
+AU  - Hovingh GK
+AD  - Novo Nordisk, Søborg, Denmark.
+FAU - Kitzman, Dalane W
+AU  - Kitzman DW
+AD  - Department of Cardiovascular Medicine and Section on Geriatrics and Gerontology, 
+      Wake Forest School of Medicine, Winston-Salem, NC, USA.
+FAU - Møller, Daniél Vega
+AU  - Møller DV
+AD  - Novo Nordisk, Søborg, Denmark.
+FAU - Verma, Subodh
+AU  - Verma S
+AD  - Division of Cardiac Surgery, Li Ka Shing Knowledge Institute of St Michael's 
+      Hospital, Unity Health Toronto, University of Toronto, Toronto, ON, Canada.
+FAU - Einfeldt, Mette Nygaard
+AU  - Einfeldt MN
+AD  - Novo Nordisk, Søborg, Denmark.
+FAU - Lindegaard, Marie L
+AU  - Lindegaard ML
+AD  - Novo Nordisk, Søborg, Denmark.
+FAU - Rasmussen, Søren
+AU  - Rasmussen S
+AD  - Novo Nordisk, Søborg, Denmark.
+FAU - Abhayaratna, Walter
+AU  - Abhayaratna W
+AD  - College of Health and Medicine, Australian National University, Canberra, ACT, 
+      Australia.
+FAU - Ahmed, Fozia Z
+AU  - Ahmed FZ
+AD  - Division of Cardiovascular Sciences, Faculty of Biology, Medicine and Health, 
+      University of Manchester, Manchester, UK.
+FAU - Ben-Gal, Tuvia
+AU  - Ben-Gal T
+AD  - Heart Failure Unit, Department of Cardiology, Rabin Medical Center, Faculty of 
+      Medicine, Tel Aviv University, Tel Aviv, Israel.
+FAU - Chopra, Vijay
+AU  - Chopra V
+AD  - Max Super Speciality Hospital, Saket, New Delhi, India.
+FAU - Ezekowitz, Justin A
+AU  - Ezekowitz JA
+AD  - Canadian VIGOUR Centre, University of Alberta, Edmonton, AB, Canada.
+FAU - Fu, Michael
+AU  - Fu M
+AD  - Section of Cardiology, Department of Medicine, Sahlgrenska University 
+      Hospital-Ostra, Gothenburg, Sweden.
+FAU - Ito, Hiroshi
+AU  - Ito H
+AD  - Department of General Internal Medicine 3, Kawasaki Medical School, Okayama, 
+      Japan.
+FAU - Lelonek, Małgorzata
+AU  - Lelonek M
+AD  - Department of Noninvasive Cardiology, Medical University of Lodz, Lodz, Poland.
+FAU - Melenovský, Vojtěch
+AU  - Melenovský V
+AD  - Institute for Clinical and Experimental Medicine-IKEM, Prague, Czech Republic.
+FAU - Merkely, Bela
+AU  - Merkely B
+AD  - Heart and Vascular Centre, Semmelweis University, Budapest, Hungary.
+FAU - Núñez, Julio
+AU  - Núñez J
+AD  - Hospital Clínico Universitario de Valencia, INCLIVA, Universidad de Valencia, 
+      Valencia, Spain; Centro de Investigación Biomédica en Red Cardiovascular, 
+      Valencia, Spain.
+FAU - Perna, Eduardo
+AU  - Perna E
+AD  - Instituto de Cardiologia J F Cabral, Corrientes, Argentina.
+FAU - Schou, Morten
+AU  - Schou M
+AD  - Department of Cardiology, Herlev-Gentofte Hospital, Hellerup, Denmark; Department 
+      of Clinical Medicine, University of Copenhagen, Herlev, Denmark.
+FAU - Senni, Michele
+AU  - Senni M
+AD  - Azienda Socio Sanitaria Territorial Papa Giovanni XXIII, Bergamo, Italy.
+FAU - Sharma, Kavita
+AU  - Sharma K
+AD  - Heart Failure & Cardiac Transplantation, Johns Hopkins University Heart Failure 
+      with Preserved Ejection Fraction Program, Johns Hopkins Hospital, Baltimore, MD, 
+      USA.
+FAU - van der Meer, Peter
+AU  - van der Meer P
+AD  - Department of Cardiology, University Medical Center Groningen, University of 
+      Groningen, Groningen, Netherlands.
+FAU - Von Lewinski, Dirk
+AU  - Von Lewinski D
+AD  - Medical University of Graz, Graz, Austria.
+FAU - Wolf, Dennis
+AU  - Wolf D
+AD  - Cardiology and Angiology, Medical Center-University of Freiburg, Faculty of 
+      Medicine, University of Freiburg, Freiburg, Germany.
+FAU - Kosiborod, Mikhail N
+AU  - Kosiborod MN
+AD  - Department of Cardiovascular Disease, Saint Luke's Mid America Heart Institute, 
+      Kansas City, MO, USA; University of Missouri-Kansas City School of Medicine, 
+      Kansas City, MO, USA. Electronic address: mkosiborod@saint-lukes.org.
+CN  - STEP-HFpEF Trial Committees and Investigators
+LA  - eng
+SI  - ClinicalTrials.gov/NCT04788511
+SI  - ClinicalTrials.gov/NCT04916470
+GR  - R01 AG078153/AG/NIA NIH HHS/United States
+GR  - R01 HL140731/HL/NHLBI NIH HHS/United States
+GR  - R01 HL127028/HL/NHLBI NIH HHS/United States
+GR  - U24 AG059624/AG/NIA NIH HHS/United States
+GR  - R01 HL107577/HL/NHLBI NIH HHS/United States
+GR  - R01 HL149423/HL/NHLBI NIH HHS/United States
+GR  - U54 HL160273/HL/NHLBI NIH HHS/United States
+GR  - P30 AG021332/AG/NIA NIH HHS/United States
+GR  - U01 AG076928/AG/NIA NIH HHS/United States
+GR  - U01 HL160272/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20240407
+PL  - England
+TA  - Lancet
+JT  - Lancet (London, England)
+JID - 2985213R
+RN  - 53AXN4NNHX (semaglutide)
+RN  - 62340-29-8 (Glucagon-Like Peptides)
+SB  - IM
+CIN - Lancet. 2024 Apr 27;403(10437):1604-1606. doi: 10.1016/S0140-6736(24)00653-6. 
+      PMID: 38599218
+MH  - Humans
+MH  - *Heart Failure/drug therapy
+MH  - *Glucagon-Like Peptides/therapeutic use/administration & dosage
+MH  - Male
+MH  - *Stroke Volume/drug effects
+MH  - Female
+MH  - Aged
+MH  - Middle Aged
+MH  - Double-Blind Method
+MH  - *Obesity/complications/drug therapy
+MH  - Treatment Outcome
+MH  - Randomized Controlled Trials as Topic
+PMC - PMC11317105
+MID - NIHMS2001947
+COIS- Declaration of interests JB is a paid consultant to Abbott, American Regent, 
+      Amgen, Applied Therapeutic, AstraZeneca, Bayer, Boehringer Ingelheim, Bristol 
+      Myers Squibb, Cardiac Dimension, Cardior, CVRx, Cytokinetics, Daxor Edwards, 
+      Element Science, Innolife, Impulse Dynamics, Imbria, Inventiva, Lexicon, Lilly, 
+      LivaNova, Janssen, Medtronics, Merck, Occlutech, Owkin, Novartis, Novo Nordisk, 
+      Pfizer, Pharmacosmos, Pharmain, Prolaio, Roche, Secretome, Sequana, SQ 
+      Innovation, Tenex, and Vifor. SJS has received research grants from AstraZeneca, 
+      Corvia, and Pfizer, and consulting fees from Abbott, Alleviant, AstraZeneca, 
+      Amgen, Aria CV, Axon Therapies, Bayer, Boehringer Ingelheim, Boston Scientific, 
+      Bristol Myers Squibb, Cyclerion, Cytokinetics, Edwards Lifesciences, Eidos, 
+      Imara, Impulse Dynamics, Intellia, Ionis, Lilly, Merck, MyoKardia, Novartis, Novo 
+      Nordisk, Pfizer, Prothena, ReCor, Regeneron, Rivus, Sardocor, Shifamed, Tenax, 
+      Tenaya, and Ultromics. MCP has received research funding from AstraZeneca, 
+      Boehringer Ingelheim, Boston Scientific, Medtronic, Novo Nordisk, Novartis, 
+      Pharmacosmos, Roche, and SQ Innovations, and has served on committees or 
+      consulted for AbbVie, Akero, AnaCardio, Applied Therapeutics, AstraZeneca, Bayer, 
+      Biosensors, Boehringer Ingelheim, Cardiorentis, Corvia, Eli Lilly, Horizon 
+      Therapeutics, LIB Therapeutics, Moderna, New Amsterdam, Novartis, Novo Nordisk, 
+      Pharmacosmos, Siemens, SQ Innovations, Takeda, Teikoku, and Vifor. BAB has 
+      received research funding from AstraZeneca, Axon, GlaxoSmithKline, Medtronic, 
+      Mesoblast, Novo Nordisk, Rivus, and Tenax Therapeutics, has served as a paid 
+      consultant for Actelion, Amgen, Aria, Axon Therapies, BD, Boehringer Ingelheim, 
+      Cytokinetics, Edwards Lifesciences, Eli Lilly, Imbria, Janssen, Merck, NGM, Novo 
+      Nordisk, NXT, and VADovations, and is named inventor (US patent number 10 307 
+      179) for the tools and approach for a minimally invasive pericardial modification 
+      procedure to treat heart failure. SZA, GKH, DVM, MNE, MLL, and SR are employees 
+      of, and shareholders in, Novo Nordisk. MJD has acted as paid consultant, advisory 
+      board member, and speaker for Boehringer Ingelheim, Eli Lilly, Novo Nordisk, and 
+      Sanofi, a paid advisory board member and speaker for AstraZeneca, a paid advisory 
+      board member for Medtronic, Pfizer, and ShouTi Pharma, and a paid speaker for 
+      Amgen, Novartis, and Sanofi, and has received grants as an investigator in 
+      support of investigator-initiated trials from AstraZeneca, Boehringer Ingelheim, 
+      Eli Lilly, Janssen, Novo Nordisk, and Sanofi-Aventis. DWK reports receiving 
+      honoraria as a consultant for AstraZeneca, Bayer, Boehringer Ingelheim, Corvia 
+      Medical, Ketyo, Novartis, Novo Nordisk, Pfizer, and Rivus, has received grant 
+      funding from AstraZeneca, Bayer, Novartis, Novo Nordisk, Pfizer, and Rivus, and 
+      owns stock in Gilead. SV reports speaking honoraria or consulting fees from 
+      Abbott, Amarin, AstraZeneca, Bayer, Boehringer Ingelheim, Canadian Medical and 
+      Surgical Knowledge Translation Research Group, Eli Lilly, HLS Therapeutics, 
+      Janssen, Merck, Novartis, Novo Nordisk, Pfizer, PhaseBio, and TIMI. WA reports 
+      honoraria or consulting fees from Amgen, AstraZeneca, Bayer, Boehringer 
+      Ingelheim, Novartis, and Novo Nordisk. FZA reports honoraria or consulting fees 
+      from Abbott, AstraZeneca, Medtronic, Novo Nordisk, Occlutech, Pharmacosmos, and 
+      Vifor. VC reports speaker fees from AstraZeneca, Boehringer Ingelheim, Cipla, Dr 
+      Reddy's, Lupin, Novartis, Novo Nordisk, Mankind, Pfizer, Sanofi, Sun Pharma, and 
+      Torrent. JAE reports research support for trial leadership from American Regent, 
+      Applied Therapeutics, Bayer, Cytokinetics, Merck, and Novo Nordisk, reports 
+      honoraria for consultancy from AstraZeneca, Bayer, Boehringer Ingelheim, 
+      Novartis, Novo Nordisk, and Otsuka, and serves as an advisor to US2.ai. HI 
+      reports honoraria or consulting fees from AstraZeneca, Bayer, Boehringer 
+      Ingelheim, Daiichi-Sankyo, Mochida, Novartis, and Novo Nordisk. ML reports 
+      honoraria or consulting fees from AstraZeneca, Bayer, Boehringer Ingelheim, 
+      Ewopharma, Gedeon Richter, Novartis, Novo Nordisk, Roche, and Servier. VM reports 
+      consulting fees from Bayer, Merck Sharp & Dohme, and Novo Nordisk and research 
+      grants from Regeneron. BM reports speaker fees or research payments from Abbott, 
+      AstraZeneca, Biotronik, Boehringer Ingelheim, CSL Behring, Daiichi-Sankyo, DUKE 
+      Clinical Institute, Medtronic, and Novartis, and institutional grants from 
+      Abbott, AstraZeneca, Biotronik, Boehringer Ingelheim, Boston Scientific, Bristol 
+      Myers Squibb, CSL Behring, Daiichi-Sankyo, DUKE Clinical Institute, Eli Lilly, 
+      Medtronic, Novartis, Terumo, and Vifor. JN reports honoraria or consulting fees 
+      from Alleviant, AstraZeneca, Bayer, Boehringer Ingelheim, Cytokinetics, Pfizer, 
+      Novartis, Novo Nordisk, Rovi, and Vifor. EP reports honoraria from Novo Nordisk. 
+      MSc reports speaker fees from AstraZeneca, Boehringer Ingelheim, Novartis, and 
+      Novo Nordisk. MSe reports honoraria or consulting fees from Abbott, AstraZeneca, 
+      Bayer, Boehringer Ingelheim, Merck, Merck Sharp & Dohme, Novartis, Novo Nordisk, 
+      and Vifor. KS received honoraria for serving as an advisory board member and 
+      consultant for Alleviant, AstraZeneca, Bayer, Boehringer Ingelheim, Bristol Myers 
+      Squibb, Cytokinetics, Janssen, Novartis, Novo Nordisk, and Rivus. PvdM reports 
+      institutional payments for consultancy fees or grants from AstraZeneca, 
+      Boehringer Ingelheim, BridgeBio, Ionis, Novartis, Novo Nordisk, Pfizer, 
+      Pharmacosmos, Pharma Nord, and Vifor. DVL reports honoraria or consulting fees 
+      from AstraZeneca, Bayer, Boehringer Ingelheim, Merck Sharp & Dohme, Novartis, 
+      Novo Nordisk, Recardio, Sanofi, Sanova, and Vaxxinity. DW reports consultancy 
+      fees from Novo Nordisk. MNK served as a paid consultant or advisory board member 
+      for 35Pharma, Alnylam, Amgen, Applied Therapeutics, AstraZeneca, Bayer, 
+      Boehringer Ingelheim, Cytokinetics, Dexcom, Eli Lilly, Esperion Therapeutics, 
+      Imbria Pharmaceuticals, Janssen, Lexicon Pharmaceuticals, Merck (Diabetes and 
+      Cardiovascular), Novo Nordisk, Pharmacosmos, Pfizer, Sanofi, scPharmaceuticals, 
+      Structure Therapeutics, Vifor, and Youngene Therapeutics, has received research 
+      grants from AstraZeneca, Boehringer Ingelheim, and Pfizer, holds stocks in Artera 
+      Health and Saghmos Therapeutics, has received honoraria from AstraZeneca, 
+      Boehringer Ingelheim, and Novo Nordisk, and has received other research support 
+      from AstraZeneca. TB-G and MF report no competing interests.
+EDAT- 2024/04/11 00:42
+MHDA- 2024/04/28 07:25
+PMCR- 2024/08/11
+CRDT- 2024/04/10 18:52
+PHST- 2024/02/08 00:00 [received]
+PHST- 2024/02/26 00:00 [revised]
+PHST- 2024/03/05 00:00 [accepted]
+PHST- 2024/04/28 07:25 [medline]
+PHST- 2024/04/11 00:42 [pubmed]
+PHST- 2024/04/10 18:52 [entrez]
+PHST- 2024/08/11 00:00 [pmc-release]
+AID - S0140-6736(24)00469-0 [pii]
+AID - 10.1016/S0140-6736(24)00469-0 [doi]
+PST - ppublish
+SO  - Lancet. 2024 Apr 27;403(10437):1635-1648. doi: 10.1016/S0140-6736(24)00469-0. 
+      Epub 2024 Apr 7.
