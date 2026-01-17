@@ -64,7 +64,7 @@ MongoDB (Queries & Feedback)
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React
@@ -181,6 +181,7 @@ User accounts and saved queries
 Feedback analytics dashboard
 
 PDF upload and ingestion pipeline
+
 
 
 
